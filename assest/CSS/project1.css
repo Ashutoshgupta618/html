@@ -1,0 +1,53 @@
+ul{
+	display: inline;
+	padding: 0px;
+}
+ul li{
+	display: inline-block;
+	padding: 22px;
+	font-size: 13px;
+}
+.slider{ border: 0px solid black;
+	  height: 500px;
+       margin-top: 40px;
+       background-image: url('../IMAGES/apple1.png') ;
+           width: 500px;
+    margin-left: auto;
+    margin-inline: auto;
+         background-repeat: no-repeat;
+}
+.sliders{ border: 0px solid black;
+	  height: 400px;
+       margin-top: 40px;
+       background-image: url('../IMAGES/apple2.png') ;
+           width: 500px;
+    margin-left: auto;
+    margin-inline: auto;
+         background-repeat: no-repeat;
+}
+
+.card{
+       width: 23%;
+       height: auto;
+       background-color: skyblue;
+       border: 1px solid white;
+       float: left ;
+
+       margin: 10px;
+}   
+.card:hover{
+       background-color:#ffc1c1;
+}
+.subtitle{
+       text-align: center;
+       font-size: 25px;
+       color: black;
+}
+.bang{
+    background-color: skyblue;
+}
+footer{
+	background-color:white;
+	font-size: 20px;
+
+}

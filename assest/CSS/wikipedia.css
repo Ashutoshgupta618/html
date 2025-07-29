@@ -1,0 +1,153 @@
+.header{
+		display:ruby-block ;
+		color: green;
+	}
+.colo{
+		color:blue;	
+              display: table-cell;		
+	}
+.margin{
+       margin-left: 50px;
+    }	
+    ul{
+    	display: inline;: ;
+    }
+    ul li{
+    	display: inline-table;
+    	text-transform: none;
+    	padding:37px ;
+    	font-size: 32px;
+    }
+/*   day2 */
+ul li:hover{
+       background-color: skyblue;
+}
+    .heder{
+    	width: 100%;
+    	height: auto;
+    	background-color: #9efffb;}
+   .headlogo{
+   /*     }
+    display: inline-block;
+    	width: 100%;
+    	height: 3px;
+    	border: 0px dashed black;
+    }*/
+        display: inline-flex;
+    width: 100%;
+    height: 3px;
+    border: 0px dashed black;
+    flex-direction: row-reverse;
+    flex-wrap: nowrap;
+    align-content: flex-start;
+    justify-content: space-around;
+    align-items: baseline;}
+   .logo{
+   	width: 400px;
+   	height: auto;
+   }
+ .signin {
+    color: black;
+    font-size: xxx-large;
+   text-decoration: underline;
+       background: white 
+    border: 3px dashed black;
+       margin-left: 20px;
+}
+.signin:hover{
+       background-color: lightgreen;
+       color: blue;
+}
+.signup{
+       margin-left: 20px;
+       display: inline;
+       padding-right: 50px;
+}
+input{
+    padding: 4px;
+    margin-left: 40px;
+    width: 234px;
+    margin-top: 14px;
+}
+input:hover{
+       background-color:skyblue ;
+}
+input[type="email"]{
+margin-left: 76px;
+}
+input[type="date"]{
+margin-left: 76px;
+}
+.signuph{       
+    margin-left: 230px;
+    border: 2px solid black;
+    margin-block: 30px;
+    height: 319px;
+    margin-right: 243px;
+}
+.signuph:hover{ 
+color: red; 
+transform: 2px;}
+.signuphs{
+       margin-left: 250px;
+}
+button{
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 0px;
+    border: 0px solid blue;
+    width: 100%;
+}
+button:hover{
+       color:blue;
+       shape-margin: 8px;
+       width: 100%;
+       text-decoration: underline;
+       background-color: red;
+}
+
+/*day 3*/
+.stock{
+       margin-left:541px;
+       color: blue;
+       display: block;}
+.slider{
+       border: 2px solid black;
+       right: 0;
+       left: 0;
+       height: 900px;
+       margin-top: 10px;
+       background-image: url('../IMAGES/OIP.jfif') ;
+       width: 100%;
+       background-size:unset;
+       background-visibility: .9px;
+}    
+.card{
+       width: 23%;
+       height: auto;
+       background-color: skyblue;
+       border: 1px solid white;
+       float: left ;
+
+       margin: 10px;
+}   
+.card:hover{
+       background-color:#ffc1c1;
+}
+.subtitle{
+       text-align: center;
+       font-size: 25px;
+       color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+

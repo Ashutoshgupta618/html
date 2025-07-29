@@ -1,0 +1,29 @@
+h1{
+		color:yellowgreen;
+	}
+	.asd{color:red ;
+		font-size: revert-layer;
+		text-align:left;
+
+	}
+	p{
+		background-color: pink;
+		text-transform: uppercase;
+		color:violet ;
+		font-style: italic;
+		text-align: right;
+		    display: ruby;
+		font-size: 20px;
+
+	}
+	ul{
+		display: inline;
+	}
+	ul li{
+		display: inline-block;
+		padding: 20px;
+		font-size: 50px;
+	}
+	h1 {
+    color: yellow;
+}
